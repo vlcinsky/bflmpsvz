@@ -6,7 +6,7 @@ Usage:
 
 
 def main(msg=""):
-    print("bflmpsvz: " + msg)
+    print("bflmpsvz-2nd-generation: " + msg)
 
 
 def script():
